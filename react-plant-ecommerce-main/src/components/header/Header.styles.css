@@ -1,0 +1,19 @@
+.nav-logo{
+    width: 70px;
+}
+
+.search-item{
+    width: 70%;
+}
+.navbar{
+    background-color: #640922;
+    color: white !important;
+}
+body {
+    font-family: 'Lato';font-size: 22px;
+}
+/* @media only screen and (max-width:600px) {
+    .search-item{
+        width: auto;
+    }
+} */
